@@ -1,0 +1,7 @@
+db:
+  user: postgres
+  password: secret
+  port: 5432
+
+auth:
+  password: top-secret
